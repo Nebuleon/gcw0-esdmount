@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Mount microSD
+Comment=Mount the external microSD card after inserting it
+Exec=mount.sh
+Icon=mount
+Terminal=true
+Type=Application
+StartupNotify=true
+Categories=settings;
