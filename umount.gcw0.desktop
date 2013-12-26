@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=Unmount microSD
-Comment=Unmount the external microSD card before ejecting it
+Name=Unmount storage
+Comment=Unmount external storage before ejecting it
 Exec=umount.sh
 Icon=umount
 Terminal=true
